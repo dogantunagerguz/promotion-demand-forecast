@@ -1,0 +1,16 @@
+segment,format,sales,demand,company,ours,company/sales,company/demand,ours/sales,ours/demand
+"1 promoted item, promotion week",Express,420,623.8,697.69,537.83,1.66,1.12,1.28,0.86
+"1 promoted item, promotion week",Hyper,6131,7842.18,5734.3,8178.03,0.94,0.73,1.33,1.04
+"1 promoted item, promotion week",Super,4091,4831.95,4462.23,4701.23,1.09,0.92,1.15,0.97
+"2 promoted item, next 2 weeks",Express,529,529.0,576.52,482.2,1.09,1.09,0.91,0.91
+"2 promoted item, next 2 weeks",Hyper,3999,3999.0,4754.95,3804.21,1.19,1.19,0.95,0.95
+"2 promoted item, next 2 weeks",Super,3329,3329.0,3704.66,3060.91,1.11,1.11,0.92,0.92
+"3 same category, not promoted, promotion week",Express,620,620.0,611.64,715.18,0.99,0.99,1.15,1.15
+"3 same category, not promoted, promotion week",Hyper,4294,4294.0,4387.87,4072.63,1.02,1.02,0.95,0.95
+"3 same category, not promoted, promotion week",Super,3436,3436.0,3682.63,3550.58,1.07,1.07,1.03,1.03
+"4 promoted item, other days",Express,903,903.0,864.77,899.58,0.96,0.96,1.0,1.0
+"4 promoted item, other days",Hyper,7345,7345.0,7132.42,7096.96,0.97,0.97,0.97,0.97
+"4 promoted item, other days",Super,5735,5735.0,5556.98,5710.31,0.97,0.97,1.0,1.0
+5 other items,Express,18882,18882.0,18493.19,21543.98,0.98,0.98,1.14,1.14
+5 other items,Hyper,143583,143583.0,137598.36,139094.06,0.96,0.96,0.97,0.97
+5 other items,Super,113306,113306.0,108738.32,113271.2,0.96,0.96,1.0,1.0

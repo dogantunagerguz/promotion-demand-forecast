@@ -1,0 +1,70 @@
+item_id,category_id,format,plan_discount,cell_mean_discount,cell_lift,lift_used,level,n_item_promos,slope_per_10pts,n_pairs
+168,17,Hyper,0.45,0.263,2.922,3.569,format,250,1.113,293
+168,17,Super,0.45,0.261,2.16,2.645,format,250,1.113,293
+168,17,Express,0.45,0.254,1.566,1.932,format,150,1.113,293
+162,17,Hyper,0.45,0.263,2.922,3.569,format,250,1.113,293
+162,17,Super,0.45,0.261,2.16,2.645,format,250,1.113,293
+162,17,Express,0.45,0.254,1.566,1.932,format,150,1.113,293
+170,17,Hyper,0.45,0.263,2.922,3.569,format,250,1.113,293
+170,17,Super,0.45,0.261,2.16,2.645,format,250,1.113,293
+170,17,Express,0.45,0.254,1.566,1.932,format,150,1.113,293
+167,17,Hyper,0.5,0.263,2.922,3.766,format,250,1.113,293
+167,17,Super,0.5,0.261,2.16,2.79,format,250,1.113,293
+167,17,Express,0.5,0.254,1.566,2.038,format,150,1.113,293
+115,12,Hyper,0.2,0.297,2.695,2.43,format x category,13,1.113,293
+115,12,Super,0.2,0.3,2.019,1.815,format x category,13,1.113,293
+115,12,Express,0.2,0.253,1.244,1.175,format x category,4,1.113,293
+112,12,Hyper,0.25,0.297,2.695,2.564,format x category,13,1.113,293
+112,12,Super,0.25,0.3,2.019,1.914,format x category,13,1.113,293
+112,12,Express,0.25,0.253,1.244,1.239,format x category,4,1.113,293
+120,12,Hyper,0.3,0.297,2.695,2.705,format x category,13,1.113,293
+120,12,Super,0.3,0.3,2.019,2.02,format x category,13,1.113,293
+120,12,Express,0.3,0.253,1.244,1.308,format x category,4,1.113,293
+118,12,Hyper,0.15,0.297,2.695,2.303,format x category,13,1.113,293
+118,12,Super,0.15,0.3,2.019,1.72,format x category,13,1.113,293
+118,12,Express,0.15,0.253,1.244,1.113,format x category,4,1.113,293
+114,12,Hyper,0.3,0.297,2.695,2.705,format x category,13,1.113,293
+114,12,Super,0.3,0.3,2.019,2.02,format x category,13,1.113,293
+114,12,Express,0.3,0.253,1.244,1.308,format x category,4,1.113,293
+113,12,Hyper,0.25,0.297,2.695,2.564,format x category,13,1.113,293
+113,12,Super,0.25,0.3,2.019,1.914,format x category,13,1.113,293
+113,12,Express,0.25,0.253,1.244,1.239,format x category,4,1.113,293
+111,12,Hyper,0.3,0.297,2.695,2.705,format x category,13,1.113,293
+111,12,Super,0.3,0.3,2.019,2.02,format x category,13,1.113,293
+111,12,Express,0.3,0.253,1.244,1.308,format x category,4,1.113,293
+94,10,Hyper,0.45,0.316,2.689,3.105,format x category,19,1.113,293
+94,10,Super,0.45,0.315,1.907,2.203,format x category,19,1.113,293
+94,10,Express,0.45,0.33,1.807,2.056,format x category,9,1.113,293
+96,10,Hyper,0.5,0.316,2.689,3.276,format x category,19,1.113,293
+96,10,Super,0.5,0.315,1.907,2.325,format x category,19,1.113,293
+96,10,Express,0.5,0.33,1.807,2.169,format x category,9,1.113,293
+93,10,Hyper,0.5,0.316,2.689,3.276,format x category,19,1.113,293
+93,10,Super,0.5,0.315,1.907,2.325,format x category,19,1.113,293
+93,10,Express,0.5,0.33,1.807,2.169,format x category,9,1.113,293
+97,10,Hyper,0.45,0.316,2.689,3.105,format x category,19,1.113,293
+97,10,Super,0.45,0.315,1.907,2.203,format x category,19,1.113,293
+97,10,Express,0.45,0.33,1.807,2.056,format x category,9,1.113,293
+34,4,Hyper,0.2,0.254,3.184,3.005,format x category,10,1.113,293
+34,4,Super,0.2,0.255,2.42,2.281,format x category,10,1.113,293
+34,4,Express,0.2,0.257,1.99,1.873,format x category,4,1.113,293
+36,4,Hyper,0.3,0.254,3.184,3.345,format x category,10,1.113,293
+36,4,Super,0.3,0.255,2.42,2.54,format x category,10,1.113,293
+36,4,Express,0.3,0.257,1.99,2.085,format x category,4,1.113,293
+31,4,Hyper,0.15,0.254,3.184,2.848,format x category,10,1.113,293
+31,4,Super,0.15,0.255,2.42,2.162,format x category,10,1.113,293
+31,4,Express,0.15,0.257,1.99,1.775,format x category,4,1.113,293
+62,7,Hyper,0.25,0.175,2.788,3.022,format x category,20,1.113,293
+62,7,Super,0.25,0.179,2.203,2.376,format x category,20,1.113,293
+62,7,Express,0.25,0.186,1.675,1.794,format x category,17,1.113,293
+67,7,Hyper,0.2,0.175,2.788,2.865,format x category,20,1.113,293
+67,7,Super,0.2,0.179,2.203,2.252,format x category,20,1.113,293
+67,7,Express,0.2,0.186,1.675,1.701,format x category,17,1.113,293
+65,7,Hyper,0.15,0.175,2.788,2.715,format x category,20,1.113,293
+65,7,Super,0.15,0.179,2.203,2.135,format x category,20,1.113,293
+65,7,Express,0.15,0.186,1.675,1.612,format x category,17,1.113,293
+41,5,Hyper,0.3,0.295,2.675,2.69,format x category,23,1.113,293
+41,5,Super,0.3,0.296,2.001,2.009,format x category,23,1.113,293
+41,5,Express,0.3,0.298,1.376,1.379,format x category,13,1.113,293
+57,6,Hyper,0.3,0.201,3.514,3.908,format x category,9,1.113,293
+57,6,Super,0.3,0.201,2.351,2.615,format x category,9,1.113,293
+57,6,Express,0.3,0.207,1.66,1.834,format x category,6,1.113,293

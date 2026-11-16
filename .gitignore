@@ -1,0 +1,6 @@
+data/*
+!data/README.md
+output/daily.pkl
+*.pkl
+__pycache__/
+.ipynb_checkpoints/

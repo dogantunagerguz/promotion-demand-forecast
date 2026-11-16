@@ -1,0 +1,6 @@
+segment,sales,demand,company,ours,company/sales,company/demand,ours/sales,ours/demand
+"1 promoted item, promotion week",10642,13297.92,10894.21,13417.09,1.02,0.82,1.26,1.01
+"2 promoted item, next 2 weeks",7857,7857.0,9036.12,7347.32,1.15,1.15,0.94,0.94
+"3 same category, not promoted, promotion week",8350,8350.0,8682.14,8338.38,1.04,1.04,1.0,1.0
+"4 promoted item, other days",13983,13983.0,13554.18,13706.86,0.97,0.97,0.98,0.98
+5 other items,275771,275771.0,264829.88,273909.24,0.96,0.96,0.99,0.99
