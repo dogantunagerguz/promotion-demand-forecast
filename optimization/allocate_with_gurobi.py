@@ -22,8 +22,8 @@ def read_requests(path: Path) -> list[dict[str, int]]:
             {key: int(value) for key, value in row.items()}
             for row in csv.DictReader(handle)
         ]
-    if not rows or any(row["units"] <= 0 for row in rows):
-        raise ValueError("Expected positive unit requests.")
+    if not rows or any(row["units"] < 0 for row in rows):
+        raise ValueError("Expected non-negative unit requests.")
     return rows
 
 
