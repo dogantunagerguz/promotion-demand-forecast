@@ -91,6 +91,14 @@ I asked the company for feedback after the case and got a detailed answer. Six p
 
 Points 1, 3 and 4 are the next notebooks in this repository; each will be added as a commit with its results in this section.
 
+## Junior Gurobi extension
+
+[![Gurobi junior optimization check](https://github.com/dogantunagerguz/promotion-demand-forecast/actions/workflows/optimization.yml/badge.svg?branch=main)](https://github.com/dogantunagerguz/promotion-demand-forecast/actions/workflows/optimization.yml)
+
+An optional junior operations-research extension uses the published P19 order file in a constrained stock-allocation scenario. Integer decision variables allocate limited units, a capacity constraint limits total stock, and hierarchical objectives first minimize the worst row-level shortage rate and then use the available capacity. This illustrative scenario is separate from the original take-home case result.
+
+[Gurobi model and scope](optimization/README.md) · [Python implementation](optimization/allocate_with_gurobi.py)
+
 ## Repository
 
 | Path | What it is |
@@ -101,12 +109,14 @@ Points 1, 3 and 4 are the next notebooks in this repository; each will be added 
 | `output/` | What the pipeline and the notebook write: the P19 forecast (`forecast_P19.csv`, 101,304 rows), the order file, lift cells and records, factors, backtest tables, totals and interval |
 | `docs/` | The memo, the slide deck, and the claims ledger with the AI log |
 | `data/` | Not included; `data/README.md` gives the schema |
+| `optimization/` | Optional Gurobi stock-allocation scenario using the published order file |
 
 ### Running it
 
 ```
 pip install -r requirements.txt
 python forecast_p19.py data output      # ~25 s after the first run (the daily table is cached as output/daily.pkl)
+python optimization/allocate_with_gurobi.py --capacity-ratio 0.90
 ```
 
 Then open `claims_analysis.ipynb` and run it top to bottom; it imports `forecast_p19` and reads `output/`.
